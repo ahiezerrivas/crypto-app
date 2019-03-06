@@ -1,0 +1,18 @@
+{
+  "name": "crypto-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Ahiezer Rivas <ahiezerrivas@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^4.0.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "electron-reload": "^1.4.0"
+  }
+}
